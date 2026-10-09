@@ -34,11 +34,11 @@
 
 ### 同一主题，两种画风
 
-用“把一次野餐安排清楚”这个虚构情境，展示同一份文案的两种视觉表达。
+用“蒸发和沸腾，有什么不同？”这个生活物理主题，展示同一份知识文案的两种视觉表达。
 
 | 清爽彩铅手账 | 细腻场景手记 |
 | --- | --- |
-| ![野餐计划：清爽彩铅版](examples/picnic-pencil.jpg) | ![野餐计划：细腻场景版](examples/picnic-watercolor.jpg) |
+| ![蒸发与沸腾：清爽彩铅版](examples/evaporation-pencil.jpg) | ![蒸发与沸腾：细腻场景版](examples/evaporation-watercolor.jpg) |
 
 ## 怎么使用
 
